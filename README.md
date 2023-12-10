@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-- Executar o PCA + MLDA como classificador de imagens.
+- Executar o PCA + MLDA + KNN como classificador de imagens.
 - Executar CNN como classificador de imagens.
 - Comparar os resultados obtidos.
 
